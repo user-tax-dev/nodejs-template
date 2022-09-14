@@ -1,0 +1,17 @@
+{
+  "name": "@user.tax/captcha-api",
+  "type": "module",
+  "dependencies": {
+    "coffee_plus": "^0.0.39",
+    "@iuser/node-loader": "^0.0.21"
+  },
+  "devDependencies": {},
+  "version": "0.0.0",
+  "exports": {
+    ".": "./lib/index.js",
+    "./*": "./lib/*"
+  },
+  "files": [
+    "lib/*"
+  ]
+}
